@@ -10,4 +10,5 @@ pre = ""
 
 # {{< param title >}}
 
-Lorem Ipsum.
+_Replace me with information about this chapter_
+

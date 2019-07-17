@@ -1,8 +1,7 @@
 +++
-title = "Strategy, Vision & Mission"
-menuTitle = "Strategy, Vision & Mission"
-date = 2019-07-16T08:14:37-05:00
-weight = 1
+title = "{{ replace .Name "-" " " | title }}"
+date = {{ .Date }}
+weight = 5
 chapter = true
 pre = ""
 +++
@@ -12,4 +11,3 @@ pre = ""
 # {{< param title >}}
 
 _Replace me with information about this chapter_
-
